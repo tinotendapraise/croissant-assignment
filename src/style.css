@@ -1,0 +1,11 @@
+footer {
+  text-align: center;
+}
+body {
+  background-color: #f8e8a6;
+}
+
+footer a {
+  color: green;
+  margin: 0 10px;
+}
